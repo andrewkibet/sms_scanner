@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MessageChecker</string>
+    <string name="Welcome_msg">Welcome to our SMS message analysis application! Our goal is to help you easily identify and address hate speech in your text messages.
+
+Our machine learning algorithm analyzes your messages to determine if they contain any hateful language, and provides you with actionable insights to help you improve your communication with others.</string>
+    <string name="permission_terms">By using our SMS message analysis application, you agree to the following terms and conditions
+    Our app may collect certain information about you and your use of the app. By using our app, you consent to our collection and use of this information.
+        By using our app, you agree to these terms and conditions. If you do not agree to these terms and conditions, do not use our app.
+
+    </string>
+</resources>
